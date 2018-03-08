@@ -14,4 +14,4 @@ SN:  897F-GBSHGG-GBSH6E-Y97F
 
 - 6.为了能看Delphi7的帮助文件，运行“Windows6.1-KB917607-x86(hlp for win7).msu”文件，安装帮助文件阅读器。
 
-## 若安装失败，可尝试修改安装目录下bin文件，project文件权限为完全控制。
+## 若安装失败，可尝试修改安装目录下bin文件和project文件权限为完全控制再做尝试。
