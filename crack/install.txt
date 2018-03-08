@@ -1,0 +1,15 @@
+BORLAND DELPHI V7 STUDIO ENTERPRISE INSTALLATION INFORMATION
+------------------------------------------------------------
+
+1. Run setup.exe and start installing...
+
+2. When it's time to enter the serial/key, use the included keygen.exe...
+
+3. Uncheck *Install InterBase Client* when asked about it...
+
+4. After the installation and before starting the software, overwrite dent.slip into your installed directory
+   with the one provided...
+
+5. Enjoy!
+
+                              /TEAM RENEGADE 2002
